@@ -1,0 +1,20 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Motivation }{1}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Aims}{1}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Personal Goals}{2}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}Readers Guide}{3}{section.1.4}% 
+\contentsline {chapter}{\numberline {2}Background}{5}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}The Concept}{5}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Exsisting Solutions - Medical}{5}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Vision Based Approaches}{5}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Sensor Based Approaches}{5}{subsection.2.2.2}% 
+\contentsline {section}{\numberline {2.3}Exsisting Solutions - Cycling}{5}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Garmin}{5}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Specilized's ANGI}{5}{subsection.2.3.2}% 
+\contentsline {section}{\numberline {2.4}Threshold based solutions}{5}{section.2.4}% 
+\contentsline {section}{\numberline {2.5}Supervised Machine Learning}{5}{section.2.5}% 
+\contentsline {chapter}{\numberline {3}Evaluation}{6}{chapter.3}% 
+\contentsline {chapter}{\numberline {4}Conclusion}{7}{chapter.4}% 
+\contentsline {chapter}{\numberline {A1}Appendix}{9}{appendix.A}% 
+\contentsline {section}{\numberline {A1.1}Appendix numbering}{9}{section.A.1}% 
