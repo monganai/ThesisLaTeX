@@ -1,14 +1,48 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{7}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Becker(2013)]{studyOfMTBInjuries}
-Johannes Becker.
+\bibitem[Johannes~Becker(2013)]{studyOfMTBInjuries}
+Daniel~Neunhäuserer Johannes~Becker, Armin~Runer.
 \newblock A prospective study of downhill mountain biking injuries.
 \newblock \emph{British journal of sports medicine}, 47\penalty0
   (458-462):\penalty0 1, 2013.
+
+\bibitem[Pekka~Kannus(2005)]{fallDeaths}
+Mika~Pavanen Pekka~Kannus, Seppo~Niemi.
+\newblock Fall-induced deaths among elderly people.
+\newblock \emph{American Journal of Public Health}, 95\penalty0 (3):\penalty0
+  422--424, 2005.
+
+\bibitem[{The Irish Times}()]{IT1}
+{The Irish Times}.
+\newblock {Mountain-biking injuries go with the territory}.
+\newblock
+  \url{https://www.irishtimes.com/life-and-style/health-family/fitness/mountain-biking-injuries-go-with-the-territory-1.3384717}.
+
+\bibitem[Tony K Chow~MD(2002)]{InjuryScale}
+Robert L Kronish~MD Tony K Chow~MD.
+\newblock Mechanisms of injury in competitive off-road bicycling.
+\newblock \emph{Wilderness and Environmental Medicine}, 13\penalty0
+  (1):\penalty0 27--30, 2002.
+
+\bibitem[{Koninklijke Philips N.V. }()]{lifeline}
+{Koninklijke Philips N.V. }.
+\newblock {Philips Lifeline, Automatic Fall Detection}.
+\newblock
+  \url{https://www.lifeline.philips.com/medical-alert-systems/fall-detection.html}.
+
+\bibitem[{Specialized}()]{ANGI}
+{Specialized}.
+\newblock {ANGI FAQS}.
+\newblock \url{https://www.specialized.com/us/en/faq/angi}.
+
+\bibitem[{ICEdot}()]{icedot}
+{ICEdot}.
+\newblock {ICEdot Crash Sensor}.
+\newblock \url{http://site.icedot.org/site/crash-sensor/?lang=en}.
 
 \end{thebibliography}
