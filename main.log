@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.4.15)  16 APR 2019 23:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.4.15)  22 APR 2019 21:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -754,40 +754,106 @@ s
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 )
+(c:/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen195
+\WF@size=\dimen196
+\c@WF@wrappedlines=\count155
+\WF@box=\box40
+\WF@everypar=\toks39
+Package: wrapfig 2003/01/31  v 3.6
+)
 (c:/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box40
+\ttl@box=\box41
 \beforetitleunit=\skip61
 \aftertitleunit=\skip62
-\ttl@plus=\dimen195
-\ttl@minus=\dimen196
-\ttl@toksa=\toks39
-\titlewidth=\dimen197
-\titlewidthlast=\dimen198
-\titlewidthfirst=\dimen199
+\ttl@plus=\dimen197
+\ttl@minus=\dimen198
+\ttl@toksa=\toks40
+\titlewidth=\dimen199
+\titlewidthlast=\dimen256
+\titlewidthfirst=\dimen257
 )
+(c:/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count156
+\lst@gtempboxa=\box42
+\lst@token=\toks41
+\lst@length=\count157
+\lst@currlwidth=\dimen258
+\lst@column=\count158
+\lst@pos=\count159
+\lst@lostspace=\dimen259
+\lst@width=\dimen260
+\lst@newlines=\count160
+\lst@lineno=\count161
+\lst@maxwidth=\dimen261
+
+(c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count162
+\lst@skipnumbers=\count163
+\lst@framebox=\box43
+)
+(c:/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
- (./main.aux)
+ (./main.aux
+
+LaTeX Warning: Label `lst:labell' multiply defined.
+
+
+LaTeX Warning: Label `lst:labell' multiply defined.
+
+
+LaTeX Warning: Label `lst:labell' multiply defined.
+
+
+LaTeX Warning: Label `lst:labell' multiply defined.
+
+
+LaTeX Warning: Label `lst:labell' multiply defined.
+
+
+LaTeX Warning: Label `crash' multiply defined.
+
+
+LaTeX Warning: Label `lst:labell' multiply defined.
+
+
+LaTeX Warning: Label `lst:labell' multiply defined.
+
+
+LaTeX Warning: Label `lst:labell' multiply defined.
+
+
+LaTeX Warning: Label `trail' multiply defined.
+
+
+LaTeX Warning: Label `cm' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 99.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 119.
 
-(c:/texlive/2018/texmf-dist/tex/latex/base/t1cmss.fd
+ (c:/texlive/2018/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 *geometry* driver: auto-detecting
@@ -826,17 +892,17 @@ File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 
 (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count155
-\scratchdimen=\dimen256
-\scratchbox=\box41
-\nofMPsegments=\count156
-\nofMParguments=\count157
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count158
-\MPscratchDim=\dimen257
-\MPnumerator=\count159
-\makeMPintoPDFobject=\count160
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count164
+\scratchdimen=\dimen262
+\scratchbox=\box44
+\nofMPsegments=\count165
+\nofMParguments=\count166
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count167
+\MPscratchDim=\dimen263
+\MPnumerator=\count168
+\makeMPintoPDFobject=\count169
+\everyMPtoPDFconversion=\toks43
 ) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -859,30 +925,33 @@ ABD: EveryShipout initializing macros
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 99.
+loading the todonotes package. on input line 119.
 
-\AtBeginShipoutBox=\box42
-Package hyperref Info: Link coloring ON on input line 99.
+\AtBeginShipoutBox=\box45
+Package hyperref Info: Link coloring ON on input line 119.
 (c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count161
+\c@section@level=\count170
 )
-LaTeX Info: Redefining \ref on input line 99.
-LaTeX Info: Redefining \pageref on input line 99.
-LaTeX Info: Redefining \nameref on input line 99.
+LaTeX Info: Redefining \ref on input line 119.
+LaTeX Info: Redefining \pageref on input line 119.
+LaTeX Info: Redefining \nameref on input line 119.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count171
  (./title/title.tex
-<title/Trinity_RGB_transparent_main.png, id=107, 412.6617pt x 142.3719pt>
+<title/Trinity_RGB_transparent_main.png, id=260, 412.6617pt x 142.3719pt>
 File: title/Trinity_RGB_transparent_main.png Graphic file (type png)
 <use title/Trinity_RGB_transparent_main.png>
 Package pdftex.def Info: title/Trinity_RGB_transparent_main.png  used on input 
@@ -894,7 +963,7 @@ line 13.
 
 {c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./title/Trinity
 _RGB_transparent_main.png>])
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 107.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 127.
 
 
 (c:/texlive/2018/texmf-dist/tex/latex/base/t1cmtt.fd
@@ -903,70 +972,1888 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.116 \chapter
+l.136 \chapter
               *{Abstract} [1] [2
 
-] [3] (./main.toc)
+] [3] (./main.toc [4
+
+])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [4
+ [5] (./main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
 
-]
-(./introduction/introduction.tex
+
+[6
+
+] [7] (./main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+ [8
+
+] (./main.lol)
+\tf@lol=\write8
+\openout8 = `main.lol'.
+
+ [9
+
+] (./introduction/introduction.tex
 Chapter 1.
 [1
 
 
-] [2]) (./background/background.tex [3]
+] [2] [3]) (./background/background.tex [4]
 Chapter 2.
-[4
+[5
 
-] [5]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 31.
+] [6]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 30.
 
-LaTeX Font Info:    No file OMScmss.fd. on input line 31.
+LaTeX Font Info:    No file OMScmss.fd. on input line 30.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 31.
+(Font)              for symbol `textbullet' on input line 30.
 
-[6] [7]) (./evaluation/evaluation.tex [8]
+[7] [8]
+<background/slowvfast.png, id=531, 483.68204pt x 296.98453pt>
+File: background/slowvfast.png Graphic file (type png)
+<use background/slowvfast.png>
+Package pdftex.def Info: background/slowvfast.png  used on input line 117.
+(pdftex.def)             Requested size: 483.68085pt x 296.9838pt.
+
+Overfull \hbox (30.71259pt too wide) in paragraph at lines 117--118
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9] [10 <./background/slowvfast.PNG>]) (./design/design.tex [11]
 Chapter 3.
-) (./conclusion/conclusion.tex [9
+[12
 
 ]
+<design/hs1.png, id=557, 306.77109pt x 502.50235pt>
+File: design/hs1.png Graphic file (type png)
+<use design/hs1.png>
+Package pdftex.def Info: design/hs1.png  used on input line 35.
+(pdftex.def)             Requested size: 122.70625pt x 200.99738pt.
+<design/hme.png, id=559, 312.41719pt x 499.11469pt>
+File: design/hme.png Graphic file (type png)
+<use design/hme.png>
+Package pdftex.def Info: design/hme.png  used on input line 48.
+(pdftex.def)             Requested size: 124.96465pt x 199.64232pt.
+<design/logo.png, id=561, 302.25421pt x 120.45pt>
+File: design/logo.png Graphic file (type png)
+<use design/logo.png>
+Package pdftex.def Info: design/logo.png  used on input line 64.
+(pdftex.def)             Requested size: 151.12672pt x 60.22484pt.
+ [13 <./design/hs1.PNG> <./design/hme.PNG> <./design/logo.PNG>] [14]
+<design/a.png, id=576, 652.4375pt x 652.4375pt>
+File: design/a.png Graphic file (type png)
+<use design/a.png>
+Package pdftex.def Info: design/a.png  used on input line 104.
+(pdftex.def)             Requested size: 130.48518pt x 130.48518pt.
+<design/g.png, id=578, 780.9175pt x 930.47626pt>
+File: design/g.png Graphic file (type png)
+<use design/g.png>
+Package pdftex.def Info: design/g.png  used on input line 130.
+(pdftex.def)             Requested size: 78.09631pt x 93.05307pt.
+<design/sampledata.png, id=580, 619.18828pt x 480.67078pt>
+File: design/sampledata.png Graphic file (type png)
+<use design/sampledata.png>
+Package pdftex.def Info: design/sampledata.png  used on input line 151.
+(pdftex.def)             Requested size: 433.42883pt x 336.46724pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <./design/a.png (PNG copy)> <./design/g.png>] [16 <./design/sampledata.png>
+]) (./implementation/implementation.tex [17]
 Chapter 4.
-) (./main.bbl [10
+<implementation/android.jpg, id=605, 224.33812pt x 264.23718pt>
+File: implementation/android.jpg Graphic file (type jpg)
+<use implementation/android.jpg>
+Package pdftex.def Info: implementation/android.jpg  used on input line 37.
+(pdftex.def)             Requested size: 67.30194pt x 79.27176pt.
 
-]) (./appendix/appendix.tex [11
+Overfull \hbox (22.00237pt too wide) in paragraph at lines 37--38
+ [] 
+ []
 
-]
+[18
+
+ <./implementation/android.jpg>]
+<implementation/marketshare.png, id=611, 625.21078pt x 385.44pt>
+File: implementation/marketshare.png Graphic file (type png)
+<use implementation/marketshare.png>
+Package pdftex.def Info: implementation/marketshare.png  used on input line 58.
+
+(pdftex.def)             Requested size: 250.07988pt x 154.17326pt.
+<implementation/studio-logo.png, id=612, 401.5pt x 301.125pt>
+File: implementation/studio-logo.png Graphic file (type png)
+<use implementation/studio-logo.png>
+Package pdftex.def Info: implementation/studio-logo.png  used on input line 78.
+
+(pdftex.def)             Requested size: 120.45091pt x 90.33818pt.
+ [19 <./implementation/marketshare.PNG> <./implementation/studio-logo.png>]
+<implementation/SQLite.png, id=619, 178.04016pt x 111.41624pt>
+File: implementation/SQLite.png Graphic file (type png)
+<use implementation/SQLite.png>
+Package pdftex.def Info: implementation/SQLite.png  used on input line 94.
+(pdftex.def)             Requested size: 89.01985pt x 55.70798pt.
+<implementation/github.png, id=620, 176.91093pt x 77.53969pt>
+File: implementation/github.png Graphic file (type png)
+<use implementation/github.png>
+Package pdftex.def Info: implementation/github.png  used on input line 111.
+(pdftex.def)             Requested size: 70.7631pt x 31.0153pt.
+<implementation/python-logo.png, id=621, 214.77423pt x 72.27pt>
+File: implementation/python-logo.png Graphic file (type png)
+<use implementation/python-logo.png>
+Package pdftex.def Info: implementation/python-logo.png  used on input line 128
+.
+(pdftex.def)             Requested size: 107.38684pt x 36.1349pt.
+ [20 <./implementation/SQLite.PNG> <./implementation/github.PNG> <./implementat
+ion/python-logo.png (PNG copy)>]
+<implementation/splash.jpg, id=631, 1084.05pt x 2031.59pt>
+File: implementation/splash.jpg Graphic file (type jpg)
+<use implementation/splash.jpg>
+Package pdftex.def Info: implementation/splash.jpg  used on input line 146.
+(pdftex.def)             Requested size: 108.41135pt x 203.1709pt.
+
+(c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 159.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 160.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 160.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 160.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 160.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 160.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 160.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 160.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 160.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 160.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 160.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 160.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 160.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 161.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 161.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 161.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 161.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 161.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 161.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 161.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 161.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 161.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 161.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 161.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 161.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 162.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 163.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 163.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 163.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 163.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 163.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 163.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 163.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 163.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 163.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 164.
+
+[21 <./implementation/splash.jpg>]
+<implementation/std.png, id=646, 153.19734pt x 77.53969pt>
+File: implementation/std.png Graphic file (type png)
+<use implementation/std.png>
+Package pdftex.def Info: implementation/std.png  used on input line 185.
+(pdftex.def)             Requested size: 153.19696pt x 77.53947pt.
+ [22 <./implementation/std.PNG>] [23]
+<implementation/weights.png, id=697, 566.86781pt x 56.46094pt>
+File: implementation/weights.png Graphic file (type png)
+<use implementation/weights.png>
+Package pdftex.def Info: implementation/weights.png  used on input line 264.
+(pdftex.def)             Requested size: 283.43321pt x 28.2304pt.
+<implementation/logit.jpg, id=699, 584.1825pt x 495.8525pt>
+File: implementation/logit.jpg Graphic file (type jpg)
+<use implementation/logit.jpg>
+Package pdftex.def Info: implementation/logit.jpg  used on input line 302.
+(pdftex.def)             Requested size: 350.51219pt x 297.5138pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<implementation/tv.png, id=700, 663.98062pt x 283.0575pt>
+File: implementation/tv.png Graphic file (type png)
+<use implementation/tv.png>
+Package pdftex.def Info: implementation/tv.png  used on input line 317.
+(pdftex.def)             Requested size: 331.98949pt x 141.5284pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[24 <./implementation/weights.png>] [25 <./implementation/logit.jpg>]
+<implementation/home.jpg, id=719, 1084.05pt x 2035.605pt>
+File: implementation/home.jpg Graphic file (type jpg)
+<use implementation/home.jpg>
+Package pdftex.def Info: implementation/home.jpg  used on input line 336.
+(pdftex.def)             Requested size: 162.60048pt x 305.32758pt.
+
+Overfull \hbox (26.70863pt too wide) in paragraph at lines 336--337
+ [] 
+ []
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 349.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 351.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 352.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 353.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 355.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 355.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 355.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 355.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 355.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 355.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 355.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 355.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 355.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 356.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 356.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 356.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 356.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 356.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 356.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 356.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 356.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 356.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 356.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 356.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 356.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 357.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 358.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 359.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 359.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 359.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 359.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 359.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 359.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 360.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 360.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 360.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 360.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 360.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 360.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 360.
+
+[26 <./implementation/tv.png> <./implementation/home.jpg>]
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 361.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 361.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 361.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 361.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 361.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 361.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 362.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 362.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 362.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 362.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 363.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 363.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 364.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 364.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 365.
+
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+382.
+
+<implementation/service.jpg, id=736, 390.45876pt x 225.84375pt>
+File: implementation/service.jpg Graphic file (type jpg)
+<use implementation/service.jpg>
+Package pdftex.def Info: implementation/service.jpg  used on input line 384.
+(pdftex.def)             Requested size: 78.09036pt x 45.16794pt.
+
+Underfull \hbox (badness 7576) in paragraph at lines 386--386
+[]\T1/cmss/m/n/12 Figure 4.8: |A
+ []
+
+[27 <./implementation/service.jpg>] [28] [29] [30]
+<implementation/crash.jpg, id=857, 1084.05pt x 2052.66875pt>
+File: implementation/crash.jpg Graphic file (type jpg)
+<use implementation/crash.jpg>
+Package pdftex.def Info: implementation/crash.jpg  used on input line 533.
+(pdftex.def)             Requested size: 162.60048pt x 307.88702pt.
+
+Overfull \hbox (26.70863pt too wide) in paragraph at lines 533--534
+ [] 
+ []
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 548.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 548.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 548.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 548.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 548.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 548.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 548.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 548.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 548.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 549.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 550.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 550.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 550.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 550.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 550.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 550.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 550.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 550.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 550.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 550.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 550.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 550.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 551.
+
+[31 <./implementation/crash.jpg>]
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 552.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 553.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 554.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 554.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 554.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 554.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 554.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 554.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 554.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 554.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 555.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 555.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 555.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 555.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 555.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 555.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 557.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 557.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 557.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 560.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 560.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 560.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 569.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 570.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 570.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 570.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 570.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 570.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 570.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 570.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 570.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 571.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 571.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 571.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 571.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 571.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 571.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 571.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 571.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 572.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 572.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 572.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 572.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 572.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 572.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 572.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 573.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 573.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 573.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 573.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 573.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 573.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 573.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 573.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 574.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 574.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 574.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 574.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 574.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 574.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 574.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 574.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 575.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 575.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 575.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 575.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 575.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 575.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 575.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 575.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 576.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 576.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 576.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 576.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 576.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 576.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 576.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 576.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 578.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 578.
+
+[32] [33]
+<implementation/set.jpg, id=908, 1084.05pt x 2036.60875pt>
+File: implementation/set.jpg Graphic file (type jpg)
+<use implementation/set.jpg>
+Package pdftex.def Info: implementation/set.jpg  used on input line 608.
+(pdftex.def)             Requested size: 162.60048pt x 305.47813pt.
+
+Overfull \hbox (26.70863pt too wide) in paragraph at lines 608--609
+ [] 
+ []
+
+<implementation/cm.png, id=910, 313.17pt x 276.28218pt>
+File: implementation/cm.png Graphic file (type png)
+<use implementation/cm.png>
+Package pdftex.def Info: implementation/cm.png  used on input line 635.
+(pdftex.def)             Requested size: 281.85037pt x 248.65166pt.
+[34 <./implementation/set.jpg>] [35 <./implementation/cm.PNG>] [36]
+<implementation/fall.png, id=925, 754.31813pt x 537.13171pt>
+File: implementation/fall.png Graphic file (type png)
+<use implementation/fall.png>
+Package pdftex.def Info: implementation/fall.png  used on input line 709.
+(pdftex.def)             Requested size: 452.59438pt x 322.28151pt.
+ [37 <./implementation/fall.png>]
+<implementation/flow.jpg, id=931, 769.87625pt x 383.4325pt>
+File: implementation/flow.jpg Graphic file (type jpg)
+<use implementation/flow.jpg>
+Package pdftex.def Info: implementation/flow.jpg  used on input line 722.
+(pdftex.def)             Requested size: 461.92932pt x 230.06126pt.
+
+Overfull \hbox (8.96106pt too wide) in paragraph at lines 722--723
+ [][] 
+ []
+
+) (./evaluation/evaluation.tex [38 <./implementation/flow.jpg>]
+Chapter 5.
+<evaluation/gvr.jpg, id=936, 1768.6075pt x 1918.16624pt>
+File: evaluation/gvr.jpg Graphic file (type jpg)
+<use evaluation/gvr.jpg>
+Package pdftex.def Info: evaluation/gvr.jpg  used on input line 11.
+(pdftex.def)             Requested size: 176.87111pt x 191.82787pt.
+[39
+
+ <./evaluation/gvr.jpg>] [40]
+<evaluation/trails.png, id=950, 435.12563pt x 427.2211pt>
+File: evaluation/trails.png Graphic file (type png)
+<use evaluation/trails.png>
+Package pdftex.def Info: evaluation/trails.png  used on input line 123.
+(pdftex.def)             Requested size: 217.56227pt x 213.61002pt.
+
+Overfull \hbox (55.49245pt too wide) in paragraph at lines 140--170
+ [] 
+ []
+
+[41 <./evaluation/trails.PNG>] [42] [43]
+<evaluation/load.png, id=965, 269.13046pt x 178.79297pt>
+File: evaluation/load.png Graphic file (type png)
+<use evaluation/load.png>
+Package pdftex.def Info: evaluation/load.png  used on input line 254.
+(pdftex.def)             Requested size: 269.1298pt x 178.79251pt.
+<evaluation/service.png, id=968, 555.19922pt x 183.30984pt>
+File: evaluation/service.png Graphic file (type png)
+<use evaluation/service.png>
+Package pdftex.def Info: evaluation/service.png  used on input line 268.
+(pdftex.def)             Requested size: 444.15997pt x 146.64806pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./conclusion/conclusion.tex [44 <./evaluation/load.PNG>] [45 <./evaluation/s
+ervice.PNG>]
+Chapter 6.
+[46
+
+] [47]
+<conclusion/Capture.png, id=990, 262.35516pt x 493.0922pt>
+File: conclusion/Capture.png Graphic file (type png)
+<use conclusion/Capture.png>
+Package pdftex.def Info: conclusion/Capture.png  used on input line 59.
+(pdftex.def)             Requested size: 341.06165pt x 641.01978pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./main.bbl [48] [49 <./conclusion/Capture.PNG>] [50
+
+])
+(./appendix/appendix.tex [51]
 Appendix A1.
-) [12
+[52
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
- (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
+<appendix/1.png, id=1022, 468.62578pt x 287.19797pt>
+File: appendix/1.png Graphic file (type png)
+<use appendix/1.png>
+Package pdftex.def Info: appendix/1.png  used on input line 29.
+(pdftex.def)             Requested size: 421.7593pt x 258.47577pt.
+<appendix/2.png, id=1023, 477.28313pt x 279.66985pt>
+File: appendix/2.png Graphic file (type png)
+<use appendix/2.png>
+Package pdftex.def Info: appendix/2.png  used on input line 41.
+(pdftex.def)             Requested size: 429.55084pt x 251.70052pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<appendix/3.png, id=1024, 313.17pt x 276.28218pt>
+File: appendix/3.png Graphic file (type png)
+<use appendix/3.png>
+Package pdftex.def Info: appendix/3.png  used on input line 53.
+(pdftex.def)             Requested size: 281.85037pt x 248.65166pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [53 <./appendix/1.PNG>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 180.
+ [54 <./appendix/2.PNG> <./appendix/3.PNG>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 180.
+
+(./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 180.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 180.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CE5620AB031D37827DF6B97101EA1AB6;1159.
+(rerunfilecheck)             Checksum: 71AB2E188E04B7AFFAF75BFC593C4F9B;3704.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 20476 strings out of 492616
- 371168 string characters out of 6132768
- 473065 words of memory out of 5000000
- 23927 multiletter control sequences out of 15000+600000
- 21186 words of font info for 52 fonts, out of 8000000 for 9000
+ 22983 strings out of 492616
+ 405986 string characters out of 6132768
+ 742804 words of memory out of 5000000
+ 26020 multiletter control sequences out of 15000+600000
+ 25062 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,8n,92p,1333b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,8n,92p,1409b,1994s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -977,22 +2864,30 @@ pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
 
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texliv
-e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/te
-xmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb><c:/texlive/2018/texmf-dist/f
-onts/type1/public/cm-super/sfss0700.pfb><c:/texlive/2018/texmf-dist/fonts/type1
-/public/cm-super/sfss0800.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm
--super/sfss1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfs
-s1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb>
-<c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb><c:/texliv
-e/2018/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/2018/tex
-mf-dist/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texlive/2018/texmf-dist/fo
-nts/type1/public/cm-super/sfsx1728.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
-public/cm-super/sfsx2488.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-
-super/sftt1200.pfb>
-Output written on main.pdf (17 pages, 277146 bytes).
+e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2018/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2018/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2018/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmssi12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8
+.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb><c:/t
+exlive/2018/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb><c:/texlive/201
+8/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb><c:/texlive/2018/texmf-di
+st/fonts/type1/public/cm-super/sfss0800.pfb><c:/texlive/2018/texmf-dist/fonts/t
+ype1/public/cm-super/sfss1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publi
+c/cm-super/sfss1095.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super
+/sfss1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfss1440.
+pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb><c:/te
+xlive/2018/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb><c:/texlive/2018
+/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/2018/texmf-dis
+t/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texlive/2018/texmf-dist/fonts/ty
+pe1/public/cm-super/sfsx1728.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public
+/cm-super/sfsx2488.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/
+sftt1200.pfb>
+Output written on main.pdf (64 pages, 11363023 bytes).
 PDF statistics:
- 304 PDF objects out of 1000 (max. 8388607)
- 251 compressed objects within 3 object streams
- 49 named destinations out of 1000 (max. 500000)
- 266 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1193 PDF objects out of 1200 (max. 8388607)
+ 1024 compressed objects within 11 object streams
+ 392 named destinations out of 1000 (max. 500000)
+ 735 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,7 +1,36 @@
 \babel@toc {english}{}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces G-Force experienced by two different riders on the same trail\relax }}{10}{figure.caption.7}% 
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Simple Home Screen Layout\relax }}{13}{figure.caption.8}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces An Example implementation of A Navigation Drawer\relax }}{13}{figure.caption.9}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces App icon Inspiration\relax }}{13}{figure.caption.10}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Different Axis of an Accelerometer (Source Mathworks)\relax }}{15}{figure.caption.11}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Different Axis of a Gyroscope (Source Mathworks)\relax }}{15}{figure.caption.12}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces G-Force, Angular Velocity and Speed over time\relax }}{16}{figure.caption.13}% 
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Market share (source: App Annie)\relax }}{19}{figure.caption.15}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces A Screenshot of the Slash Screen\relax }}{21}{figure.caption.20}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces An Example Of RideSafe Training Data\relax }}{22}{figure.caption.21}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Weights calculated by the Multivariate Logistic Model\relax }}{24}{figure.caption.22}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Sigmoid curve produced by a logit function\relax }}{25}{figure.caption.23}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Classifying Example Test values With A Trained Model\relax }}{26}{figure.caption.24}% 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces A Screenshot of the home Screen\relax }}{26}{figure.caption.25}% 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces A Screenshot of the service notification\relax }}{27}{figure.caption.26}% 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces A Screenshot of the Crash Handler\relax }}{31}{figure.caption.27}% 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces A Screenshot of the Settings Screen\relax }}{34}{figure.caption.28}% 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Accident HeatMap (left), Compass (Right)\relax }}{35}{figure.caption.29}% 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Analysis of A Crash\relax }}{37}{figure.caption.30}% 
+\contentsline {figure}{\numberline {4.13}{\ignorespaces RideSafe Application Flow\relax }}{38}{figure.caption.31}% 
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Garmin Edge 520 Vs RideSafe (Samsung Galaxy s8)\relax }}{39}{figure.caption.32}% 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces A Smooth trail (left) vs A steep technical trail (Right)\relax }}{41}{figure.caption.35}% 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Resource utilization during Training / idle\relax }}{44}{figure.caption.38}% 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Background Service Performance\relax }}{45}{figure.caption.39}% 
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Play Store Listing For RideSafe\relax }}{49}{figure.caption.40}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A1.1}{\ignorespaces \relax }}{53}{figure.caption.42}% 
+\contentsline {figure}{\numberline {A1.2}{\ignorespaces \relax }}{54}{figure.caption.43}% 
+\contentsline {figure}{\numberline {A1.3}{\ignorespaces \relax }}{54}{figure.caption.44}% 

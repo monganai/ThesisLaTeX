@@ -60,6 +60,9 @@
 \usepackage{enumerate} % fancy enumerations like (i) (ii) or (a) (b) and suchlike
 \usepackage{booktabs} % To thicken table lines
 \usepackage{fancyhdr}
+\usepackage{wrapfig}
+
+
 
 \pagestyle{plain} % Embrace simplicity!
 
@@ -96,6 +99,23 @@
 \author{\authorname}
 
 \frontmatter
+
+\usepackage{listings}
+\usepackage{color}
+
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+
+
+
+
+
+
+
+
 \begin{document}
 \input{title/title.tex}
 \pagenumbering{roman}
@@ -120,27 +140,35 @@ Existing discipline-specific solutions e.g., for road only or for mountain use o
   
  This project expands on previous research done in the area of wearable fall detection devices for the elderly, focusing on the design of a software solution for real-time fall detection. Three data points are used: raw sensor data from both a tri-axial gyroscope and a tri-axial accelerometer as well as the rate of change of speed, calculated via GPS. The proposed system utilizes learning techniques to improve detection rates and over time generates a more personalized model. Based on pre-captured training data of both regular riding and crashes, data is classified using a multivariable logistic regression model in real-time to determine whether a crash has occurred. Raw sensor data is captured from the inbuilt sensors present on android smartphones.
 
-This approach is implemented as an android application called “RideSafe” and was evaluated using a user study, comprising of X participants at local trail centres over a Y day period. Crash data was also collected, by means of intentional crashes in a controlled environment  for verification.  Results show that this system can successfully detect upwards of X crashes with a low rate of Y false positives….
+This approach is implemented as an android application called “RideSafe” and was evaluated using a user study, comprising of 16 participants at local trail centres over a 2 day period. Crash data was also collected, by means of intentional crashes in a controlled environment  for verification.  Results show that this system can successfully detect upwards of 80\% of crashes with a low rate of 18\% false positives.
 
 
 \newpage
 \onehalfspacing\raggedright %\raggedright turns off justification and hypenation
 
 \section*{\Huge{Acknowledgements}}
-Thanks Mum!
 
-You should acknowledge any help that you have received (for example from technical staff), or input provided by, for example, a company.
+I would like to thank my supervisor Siobhan, for her continuous support over the past 6 months.
+My sincere gratitude to both family and friends for their invaluable advice and support received over the past 5 years.
+I also wish to thank my tutor Dr. Hugh Gibbons, without whom, I may not have made it through to my final year.
+Finally a special thanks to everyone who partook in this study, especially Matt from Glencullen Adventure Park for allowing testing to take place on site.
+
+
 \tableofcontents
-%%\listoffigures
-%%\listoftables
+\listoffigures
+\listoftables
+\lstlistoflistings
 \newpage
 
 
 \mainmatter
 \input{introduction/introduction.tex}
 \input{background/background.tex}
+\input{design/design.tex}
+\input{implementation/implementation.tex}
 %%\input{project/project.tex}
 \input{evaluation/evaluation.tex}
+
 \input{conclusion/conclusion.tex}
 \bibliographystyle{unsrtnat}
 \bibliography{bibs/references}

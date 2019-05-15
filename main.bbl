@@ -1,18 +1,20 @@
-\begin{thebibliography}{7}
+\begin{thebibliography}{13}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Johannes~Becker(2013)]{studyOfMTBInjuries}
-Daniel~Neunhäuserer Johannes~Becker, Armin~Runer.
+\bibitem[Becker et~al.(2013)Becker, Runer, Neunhäuserer, Frick, Resch, and
+  Moroder]{studyOfMTBInjuries}
+Johannes Becker, Armin Runer, Daniel Neunhäuserer, Nora Frick, Herbert Resch,
+  and Philipp Moroder.
 \newblock A prospective study of downhill mountain biking injuries.
 \newblock \emph{British journal of sports medicine}, 47\penalty0
   (458-462):\penalty0 1, 2013.
 
-\bibitem[Pekka~Kannus(2005)]{fallDeaths}
-Mika~Pavanen Pekka~Kannus, Seppo~Niemi.
+\bibitem[Kannus et~al.(2005)Kannus, Niemi, Pavanen, and Parkkari]{fallDeaths}
+Pekka Kannus, Seppo Niemi, Mika Pavanen, and Jari Parkkari.
 \newblock Fall-induced deaths among elderly people.
 \newblock \emph{American Journal of Public Health}, 95\penalty0 (3):\penalty0
   422--424, 2005.
@@ -23,8 +25,8 @@ Mika~Pavanen Pekka~Kannus, Seppo~Niemi.
 \newblock
   \url{https://www.irishtimes.com/life-and-style/health-family/fitness/mountain-biking-injuries-go-with-the-territory-1.3384717}.
 
-\bibitem[Tony K Chow~MD(2002)]{InjuryScale}
-Robert L Kronish~MD Tony K Chow~MD.
+\bibitem[MD and MD(2002)]{InjuryScale}
+Tony K~Chow MD and Robert L~Kronish MD.
 \newblock Mechanisms of injury in competitive off-road bicycling.
 \newblock \emph{Wilderness and Environmental Medicine}, 13\penalty0
   (1):\penalty0 27--30, 2002.
@@ -44,5 +46,42 @@ Robert L Kronish~MD Tony K Chow~MD.
 {ICEdot}.
 \newblock {ICEdot Crash Sensor}.
 \newblock \url{http://site.icedot.org/site/crash-sensor/?lang=en}.
+
+\bibitem[Pannurat et~al.(2014)Pannurat, Thiemjarus, and
+  Nantajeewarawat]{commonSolutions}
+Natthapon Pannurat, Surapa Thiemjarus, and Ekawit Nantajeewarawat.
+\newblock Automatic fall monitoring: A review.
+\newblock \emph{sensors (Basel)}, 14-7\penalty0 (12900-12936):\penalty0 1--4,
+  2014.
+
+\bibitem[Tsinganos and Skodras(2017)]{smart}
+Panagiotis Tsinganos and Athanassios Skodras.
+\newblock A smartphone-based fall detection system for the elderly.
+\newblock \emph{Proceedings of the 10th International Symposium on Image and
+  Signal Processing and Analysis}, 1:\penalty0 1--4, 2017.
+
+\bibitem[Hsieh et~al.(2016)Hsieh, Huang, Liu, Chu, and Chan]{mls}
+Chia-Yeh Hsieh, Chih-Ning Huang, Kai-Chun Liu, Woei-Chyn Chu, and Chia-Tai
+  Chan.
+\newblock A machine learning approach to fall detection algorithm using
+  wearable sensor.
+\newblock \emph{2016 International Conference on Advanced Materials for Science
+  and Engineering (ICAMSE)}, 2016.
+
+\bibitem[col()]{color}
+{Color Tool}.
+\newblock \url{https://material.io/tools/color/#!/?view.left=0&view.right=0}.
+
+\bibitem[Maalouf et~al.(2018)Maalouf, Homouz, and Trafalis]{suit}
+Maher Maalouf, Dirar Homouz, and Theodore~B. Trafalis.
+\newblock Logistic regression in large rare events and imbalanced data: A
+  performance comparison of prior correction and weighting methods.
+\newblock \emph{Computational Intelligence}, 34:\penalty0 161--174, 2018.
+
+\bibitem[Singhai et~al.(2014)Singhai, Bose, and Yendeti]{power}
+Amit Singhai, Joy Bose, and Nagaraju Yendeti.
+\newblock Reducing power consumption in android applications.
+\newblock \emph{2014 IEEE International Advance Computing Conference (IACC)},
+  1:\penalty0 4--6, 2014.
 
 \end{thebibliography}

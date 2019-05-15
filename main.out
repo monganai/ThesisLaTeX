@@ -5,15 +5,53 @@
 \BOOKMARK [1][-]{section.1.4}{Readers Guide}{chapter.1}% 5
 \BOOKMARK [0][-]{chapter.2}{Background}{}% 6
 \BOOKMARK [1][-]{section.2.1}{The Concept}{chapter.2}% 7
-\BOOKMARK [1][-]{section.2.2}{Exsisting Solutions - Medical}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.2}{Existing Solutions - Medical}{chapter.2}% 8
 \BOOKMARK [2][-]{subsection.2.2.1}{Vision Based Approaches}{section.2.2}% 9
 \BOOKMARK [2][-]{subsection.2.2.2}{Sensor Based Approaches}{section.2.2}% 10
 \BOOKMARK [1][-]{section.2.3}{Exsisting Solutions - Cycling}{chapter.2}% 11
 \BOOKMARK [2][-]{subsection.2.3.1}{Garmin}{section.2.3}% 12
 \BOOKMARK [2][-]{subsection.2.3.2}{Specilized's ANGI}{section.2.3}% 13
 \BOOKMARK [1][-]{section.2.4}{Threshold based solutions}{chapter.2}% 14
-\BOOKMARK [1][-]{section.2.5}{Supervised Machine Learning}{chapter.2}% 15
-\BOOKMARK [0][-]{chapter.3}{Evaluation}{}% 16
-\BOOKMARK [0][-]{chapter.4}{Conclusion}{}% 17
-\BOOKMARK [0][-]{appendix.A}{Appendix}{}% 18
-\BOOKMARK [1][-]{section.A.1}{Appendix numbering}{appendix.A}% 19
+\BOOKMARK [1][-]{section.2.5}{Rule Based Solutions}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.6}{Machine Learning Techniques}{chapter.2}% 16
+\BOOKMARK [0][-]{chapter.3}{System Design}{}% 17
+\BOOKMARK [1][-]{section.3.1}{Requirements}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.1.1}{Functional Requirements}{section.3.1}% 19
+\BOOKMARK [2][-]{subsection.3.1.2}{Non-Functional Requirements}{section.3.1}% 20
+\BOOKMARK [1][-]{section.3.2}{Interface Design}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.3}{System Architecture Design}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.3.1}{System Type}{section.3.3}% 23
+\BOOKMARK [2][-]{subsection.3.3.2}{Sensors \046 Measurements}{section.3.3}% 24
+\BOOKMARK [1][-]{section.3.4}{Machine Learning}{chapter.3}% 25
+\BOOKMARK [0][-]{chapter.4}{Implementation}{}% 26
+\BOOKMARK [1][-]{section.4.1}{Technologies Used}{chapter.4}% 27
+\BOOKMARK [2][-]{subsection.4.1.1}{Android}{section.4.1}% 28
+\BOOKMARK [2][-]{subsection.4.1.2}{Android Studio - Java}{section.4.1}% 29
+\BOOKMARK [2][-]{subsection.4.1.3}{SQLite}{section.4.1}% 30
+\BOOKMARK [2][-]{subsection.4.1.4}{Github}{section.4.1}% 31
+\BOOKMARK [2][-]{subsection.4.1.5}{Python}{section.4.1}% 32
+\BOOKMARK [1][-]{section.4.2}{Main Activities}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.2.1}{Splash Screen \046 Logistic Regression}{section.4.2}% 34
+\BOOKMARK [2][-]{subsection.4.2.2}{Home Screen}{section.4.2}% 35
+\BOOKMARK [2][-]{subsection.4.2.3}{RideSafe Background Service}{section.4.2}% 36
+\BOOKMARK [2][-]{subsection.4.2.4}{Crash Handler}{section.4.2}% 37
+\BOOKMARK [2][-]{subsection.4.2.5}{Settings}{section.4.2}% 38
+\BOOKMARK [1][-]{section.4.3}{Non-Functional Requirements Implemented}{chapter.4}% 39
+\BOOKMARK [2][-]{subsection.4.3.1}{Google Maps}{section.4.3}% 40
+\BOOKMARK [2][-]{subsection.4.3.2}{Compass}{section.4.3}% 41
+\BOOKMARK [1][-]{section.4.4}{Training}{chapter.4}% 42
+\BOOKMARK [1][-]{section.4.5}{Application Flow Diagram}{chapter.4}% 43
+\BOOKMARK [0][-]{chapter.5}{Evaluation \046 Results}{}% 44
+\BOOKMARK [1][-]{section.5.1}{Carpark Tests}{chapter.5}% 45
+\BOOKMARK [1][-]{section.5.2}{Real World Testing}{chapter.5}% 46
+\BOOKMARK [1][-]{section.5.3}{Application Performance}{chapter.5}% 47
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 48
+\BOOKMARK [1][-]{section.6.1}{Future Work}{chapter.6}% 49
+\BOOKMARK [2][-]{subsection.6.1.1}{Training}{section.6.1}% 50
+\BOOKMARK [2][-]{subsection.6.1.2}{Collaboration}{section.6.1}% 51
+\BOOKMARK [2][-]{subsection.6.1.3}{Inter-Device communication}{section.6.1}% 52
+\BOOKMARK [1][-]{section.6.2}{Conclusion}{chapter.6}% 53
+\BOOKMARK [0][-]{appendix.A}{Appendix}{}% 54
+\BOOKMARK [1][-]{section.A.1}{Other Resources}{appendix.A}% 55
+\BOOKMARK [1][-]{section.A.2}{Supplied With This Report}{appendix.A}% 56
+\BOOKMARK [1][-]{section.A.3}{Application Screenshots}{appendix.A}% 57
